@@ -12,7 +12,7 @@ The course covers:
   - TD-learning
   - SARSA
   - Q-learning
-- Model
+- Model-based methods:
 
 ## Course structure
 Alongside lectures the tinkering notebooks, found in the folder Tinkering Notebooks, provide hands-on experience with the implementations of the course content.
