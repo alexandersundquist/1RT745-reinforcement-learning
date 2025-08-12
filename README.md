@@ -1,4 +1,4 @@
-#1RT745-Reinforcement-Learning
+# 1RT745-reinforcement-learning
 Repo for the course 1RT745 Reinforcement Learning
 
 ## Course content
